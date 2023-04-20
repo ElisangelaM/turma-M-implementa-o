@@ -1,5 +1,16 @@
-header {
-background-color: blue;
-color: white;
+.cabeçalho {
+    display: flex;
+    background-color: #3C486B;
 }
 
+.cabeçalho-título1 {
+    color: white;
+}
+
+.cabeçalho-lista {
+    color: white;
+}
+
+.cabeçalho-imagem {
+    width: 140px;
+}
