@@ -1,28 +1,33 @@
 .cabeçalho {
     display: flex;
-    justify-content: center;
+    justify-content:space-around;
     background-color: #3C486B;
-    margin: 0;
-    padding: 30px 30px;
+    margin: 0%;
+    padding: 5%, 5%;
 }
 
-.cabeçalho-título1 {
-    font-size:55px;
-    color: white;
-}
-
-.cabeçalho-lista {
+.cabeçalho {
     color: white;
 }
 
 .cabeçalho-imagem {
-    width: 200px;
-    margin: 0;
-    padding: 40px 40px ;
+    width: 210px;
+    height: 120px;
+    margin: 0%;
+    padding: 2%, 2%;
 }
 
-.Alimentação Saudavel{
-background-color: blueviolet;
-margin: 0;
-padding: 300px 300px;
+.cabeçalho-título1 {
+    font-size: 70px;
+    text-align: center;
+    margin: 0%;
+    padding: 2% 2%;
 }
+
+.Escola-de-tecnologia {
+    background-color: #F9D949;
+    margin: 0;
+    padding: 20% 2%;
+    color: white;
+}
+
